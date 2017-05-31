@@ -1,0 +1,21 @@
+{"VAL":"[1,2,3]","TYP":"class CustomArray","CMD":"ADD","KEY":"array"}
+{"VAL":"one","TYP":"class java.lang.String","CMD":"ADD","KEY":"put"}
+{"VAL":"valueRecoverTest","TYP":"class java.lang.String","CMD":"ADD","KEY":"recover"}
+{"VAL":"1.23","TYP":"class java.lang.Double","CMD":"ADD","KEY":"d"}
+{"VAL":"cur","TYP":"class java.lang.String","CMD":"ADD","KEY":"testcur"}
+{"VAL":"curupdate","TYP":"class java.lang.String","CMD":"ADD","KEY":"testcur"}
+{"VAL":"newCurupdate1","TYP":"class java.lang.String","CMD":"ADD","KEY":"testcur"}
+{"VAL":"1.2","TYP":"class java.lang.Double","CMD":"ADD","KEY":"doubletest"}
+{"VAL":"{\"name\":\"Roger\",\"age\":21}","TYP":"class CustomObject","CMD":"ADD","KEY":"object"}
+{"VAL":"4","TYP":"class java.lang.Integer","CMD":"ADD","KEY":"inttest"}
+{"VAL":"value","TYP":"class java.lang.String","CMD":"ADD","KEY":"stringtest"}
+{"VAL":"removevalue","TYP":"class java.lang.String","CMD":"ADD","KEY":"removetest"}
+{"CMD":"DEL","KEY":"removetest"}
+{"CMD":"DEL","KEY":"removetest"}
+{"VAL":"123","TYP":"class java.lang.Integer","CMD":"ADD","KEY":"revert"}
+{"VAL":"string","TYP":"class java.lang.String","CMD":"ADD","KEY":"revert"}
+{"CMD":"DEL","KEY":"revert"}
+{"CMD":"DEL","KEY":"revert"}
+{"VAL":"123","TYP":"class java.lang.Integer","CMD":"ADD","KEY":"revert"}
+{"VAL":"string","TYP":"class java.lang.String","CMD":"ADD","KEY":"revert"}
+{"CMD":"DEL","KEY":"revert"}
